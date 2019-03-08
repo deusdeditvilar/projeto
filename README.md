@@ -21,3 +21,7 @@
 . Para acessar a página de crud, é necessário que se faça o login ou cadastro. Para isso, digitar: 127.0.0.1:8000/contas/login ou 127.0.0.1:8000/contas/signup.
 
 * Para acessar a página de admin, digitar 127.0.0.1/admin. O user: Deus / senha: superuser
+
+# Updates:
+ - Correção do bug do cadastro de usuário e do layout.
+ - Correção do bug do login do Facebook.
